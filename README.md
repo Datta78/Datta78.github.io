@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Tech Banner](https://i.postimg.cc/0jQJ5k0k/tech-stack-banner.png)
+![Tech Banner](https://picsum.photos/id/1015/1200/280)
 
 ## 👋 About Me
 
@@ -41,10 +41,8 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 ---
 
-**Copy this full version** and update your `README.md`.
+Copy this and update your README.md.
 
-The banner is now your chosen tech image.
+If you want to use your own image, upload it to the repo first and use the GitHub link.
 
-Would you like me to make any changes or move to the next step?
-
-Just say! 🚀
+Let me know if it's working now! 🚀
