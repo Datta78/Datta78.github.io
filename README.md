@@ -5,11 +5,15 @@
 ![Portfolio Banner](https://picsum.photos/id/1060/800/250)
 
 ## 👋 About Me
-I'm a passionate Full Stack Developer from Maharashtra, India. I specialize in creating scalable web applications with beautiful user interfaces and solid backend architecture.
+
+I'm a passionate Full Stack Developer from Sangli, Maharashtra. I specialize in creating scalable web applications with beautiful user interfaces and solid backend architecture.
 
 Currently building **DNM Web+** — a digital agency focused on delivering real business solutions.
 
+![About Visual](https://picsum.photos/id/64/600/300)
+
 ## 🛠️ Tech Stack
+
 **Languages**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,22 +31,36 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
-- **Online Food Ordering System** — Full-stack platform with admin panel
-- **Expense Manager** — Finance tracker with reports & alerts
-- **WhatsApp Auto-Reply Bot** — Android automation tool
-- **Student Attendance System** — Role-based tracking system
+
+![Food Ordering](https://picsum.photos/id/292/600/200)
+
+**Online Food Ordering System**  
+Full-stack platform with admin panel, cart, and real-time order tracking.
+
+![Expense Manager](https://picsum.photos/id/201/600/200)
+
+**Expense Manager**  
+Finance tracker with budgeting, alerts, and graphical reports.
+
+![WhatsApp Bot](https://picsum.photos/id/201/600/200)
+
+**WhatsApp Auto-Reply Bot**  
+Android automation tool using Java & Accessibility API.
 
 ## 📬 Let's Connect
-- Email: bdattatray78@gmail.com
+
+- Email: bhosaledattatray78@gmail.com
 - WhatsApp: +91 87676 64008
 - LinkedIn: [Dattatray Bhosale](https://www.linkedin.com/in/dattatray-bhosale78/)
 
 ---
 
-**Copy this full version** and update your `README.md` in the `Datta78.github.io` repo.
+**Copy this full version** and update your `README.md`.
 
-This looks clean, attractive, and professional.
+This has images in multiple sections for better visual appeal.
 
-Would you like me to make it **even better** (more sections, more badges, etc.) or move to the next step?
+Would you like me to make it even more attractive or add more sections? 
+
+Or shall we move to the next step (fixing links in index.html)? 
 
 Just say! 🚀
