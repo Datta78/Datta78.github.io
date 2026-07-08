@@ -2,7 +2,8 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Tech Banner](https://source.unsplash.com/random/1200x280/?technology,code)
+![Tech Banner](<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/f25136eb-6f3f-403f-9ea0-80defabb6731" />
+)
 
 ## 👋 About Me
 
