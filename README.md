@@ -2,15 +2,13 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Artistic Banner](https://picsum.photos/id/1015/800/280)
+![Background](https://picsum.photos/id/1015/1200/400)
 
 ## 👋 About Me
 
 I'm a passionate Full Stack Developer from Sangli, Maharashtra. I specialize in creating scalable web applications with beautiful user interfaces and solid backend architecture.
 
 Currently building **DNM Web+** — a digital agency focused on delivering real business solutions.
-
-![Ghibli Style Illustration](https://picsum.photos/id/1018/600/300)
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +28,10 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 ## 🚀 Featured Projects
 
-**Online Food Ordering System**  
-Full-stack platform with admin panel and real-time tracking.
-
-**Expense Manager**  
-Finance tracker with budgeting and reports.
-
-**WhatsApp Auto-Reply Bot**  
-Android automation tool.
+- **Online Food Ordering System** — Full-stack platform with admin panel
+- **Expense Manager** — Finance tracker with reports & alerts
+- **WhatsApp Auto-Reply Bot** — Android automation tool
+- **Student Attendance System** — Role-based tracking system
 
 ## 📬 Let's Connect
 
@@ -49,7 +43,7 @@ Android automation tool.
 
 **Copy this full version** and update your `README.md`.
 
-The images are artistic and relevant (Ghibli-style feel).
+The single image is used as background-style banner.
 
 Would you like me to make any changes or move to the next step?
 
