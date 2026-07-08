@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Background](https://picsum.photos/id/1015/1200/400)
+![Tech Banner](https://picsum.photos/id/1015/1200/280)
 
 ## 👋 About Me
 
@@ -43,8 +43,8 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 **Copy this full version** and update your `README.md`.
 
-The single image is used as background-style banner.
+The banner is now a tech-related image (abstract code/lines).
 
-Would you like me to make any changes or move to the next step?
+Would you like me to change the banner to something else or move to the next step?
 
 Just say! 🚀
