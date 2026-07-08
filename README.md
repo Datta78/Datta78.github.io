@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Tech Banner](https://picsum.photos/id/1015/1200/280)
+![Tech Banner](https://i.pinimg.com/736x/68/f2/aa/68f2aa0d9922f9db69c00b2a3813caea.jpg)
 
 ## 👋 About Me
 
