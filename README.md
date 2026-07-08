@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Tech Banner](https://picsum.photos/id/1015/1200/280)
+![Tech Banner](https://source.unsplash.com/random/1200x280/?technology,code)
 
 ## 👋 About Me
 
@@ -43,8 +43,10 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 **Copy this full version** and update your `README.md`.
 
-The banner is now a tech-related image (abstract code/lines).
+The banner is a real tech/code image from Unsplash (it changes but always looks tech-related).
 
-Would you like me to change the banner to something else or move to the next step?
+This should look good now.
+
+Would you like any changes or shall we move to the next step?
 
 Just say! 🚀
