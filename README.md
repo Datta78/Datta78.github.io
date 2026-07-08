@@ -2,8 +2,7 @@
 
 **Full Stack Developer** | Building clean, fast, and human-centered digital experiences.
 
-![Tech Banner](<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/f25136eb-6f3f-403f-9ea0-80defabb6731" />
-)
+![Tech Banner](https://i.postimg.cc/0jQJ5k0k/tech-stack-banner.png)
 
 ## 👋 About Me
 
@@ -44,10 +43,8 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 **Copy this full version** and update your `README.md`.
 
-The banner is a real tech/code image from Unsplash (it changes but always looks tech-related).
+The banner is now your chosen tech image.
 
-This should look good now.
-
-Would you like any changes or shall we move to the next step?
+Would you like me to make any changes or move to the next step?
 
 Just say! 🚀
