@@ -35,7 +35,7 @@ Currently building **DNM Web+** — a digital agency focused on delivering real 
 
 ## 📬 Let's Connect
 
-- Email: bhosaledattatray78@gmail.com
+- Email: bdattatray78@gmail.com
 - WhatsApp: +91 87676 64008
 - LinkedIn: [Dattatray Bhosale](https://www.linkedin.com/in/dattatray-bhosale78/)
 
