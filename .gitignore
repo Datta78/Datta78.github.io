@@ -1,34 +1,58 @@
 # ========================================
-# Portfolio Website .gitignore
+# Dattatray Bhosale — Portfolio Website
+# .gitignore
 # ========================================
 
-# Environment & Secrets
+# Environment Variables
 .env
 .env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# Logs
+# Logs & Debugging
 *.log
 logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# OS Generated
+# OS Generated Files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# IDE / Editor
+# IDE / Editor Files
 .vscode/
 .idea/
 *.swp
 *.swo
+*.sublime-*
+.project
+.settings/
+.classpath
 
-# Temporary Files
+# Temporary & Cache
 tmp/
 temp/
 cache/
-*.tmp
 *.cache
+*.tmp
 
-# Node.js (if used)
+# Build Folders (if any)
+dist/
+build/
+out/
+
+# Node.js (if you use any JS build tools)
 node_modules/
+npm-debug.log*
 
-# Keep this comment
+# Keep this comment at the bottom
+# ========================================
+# Add project specific rules below
 # ========================================
